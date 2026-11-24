@@ -1,4 +1,4 @@
-# 🤖 Autonomous Mobile Robot (AMR) using ROS2
+Autonomous Mobile Robot (AMR) using ROS2
 
 [![ROS2](https://img.shields.io/badge/ROS2-Kilted-blue.svg)]
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420.svg)]
