@@ -333,7 +333,7 @@ Current Progress
 ---
 
 # Author
-Reo James
+Gopinath Reddy Animireddy
 
 Robotics | ROS2 | Autonomous Systems | Computer Vision | Embedded Systems
 
