@@ -339,6 +339,3 @@ Robotics | ROS2 | Autonomous Systems | Computer Vision | Embedded Systems
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
